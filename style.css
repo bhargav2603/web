@@ -1,0 +1,26 @@
+    h1{
+         color: rgb(255, 254, 254);
+         text-align: center;
+         font-style: italic;
+         background-image: url(https://www.ecellvnit.org/img/logo-ecell.png);
+         background-repeat: no-repeat;
+         background-position: right;
+         background-attachment: scroll;
+    }
+    h2{
+        color: rgb(252, 249, 249);
+        text-align: center;
+        font-style: italic;
+        font-weight: 100;
+    }
+    h3{
+        color: rgb(253, 251, 251);
+        text-align: center;
+        font-family: cursive;
+    }
+    p{
+        color: black;
+        font-style: inherit;
+        font-size: x-large;
+    }
+   
